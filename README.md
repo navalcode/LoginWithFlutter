@@ -1,3 +1,14 @@
+<!-- navalcode:historical-context -->
+**Historical learning project · Proyecto histórico de aprendizaje**
+
+Flutter login/register screen exercise. This presentation update does not claim a current build or production readiness. Original documentation and attribution are retained below when present.
+
+**Español.** Ejercicio Flutter de pantallas de acceso y registro. Esta actualización de presentación no acredita compilación actual ni uso en producción. Se conserva la documentación y atribución originales cuando existen.
+
+[Current mobile portfolio / Portfolio móvil actual](https://passkeys.navalcode.org/portfolio/) · [GitHub profile](https://github.com/navalcode)
+
+---
+
 # login_flutter
 
 A new Flutter project.
