@@ -1,18 +1,26 @@
-# Flutter login screens
+# Flutter login and registration UI
 
 [English](#overview) · [Español](#resumen)
 
 ## Overview
 
-Flutter login/register screen exercise.
+Flutter screen exercise with separate login and registration pages. Read the entry point and both page implementations to inspect the layout and navigation.
 
-An earlier learning exercise. The source is preserved with its original toolchain; compatibility with current versions has not been revalidated.
+No working backend authentication or current-device validation is claimed. The original SDK constraint and dependencies are recorded in pubspec.yaml.
+
+- [`main.dart`](lib/main.dart)
+- [`login.dart`](lib/pages/login.dart)
+- [`register.dart`](lib/pages/register.dart)
+
+[pubspec.yaml](pubspec.yaml): The package file records the SDK constraint, dependencies and assets.
 
 ## Resumen
 
-Ejercicio Flutter de pantallas de acceso y registro.
+Ejercicio de pantallas Flutter con acceso y registro separados. El punto de entrada y las dos páginas permiten revisar la composición y la navegación.
 
-Ejercicio de una etapa anterior de aprendizaje. Se conserva con sus herramientas originales; no se ha vuelto a validar con versiones actuales.
+No se acredita autenticación funcional contra un backend ni validación actual en dispositivos. pubspec.yaml conserva la restricción de SDK y las dependencias originales.
+
+Consulta los archivos enlazados arriba para seguir la implementación. [pubspec.yaml](pubspec.yaml): El archivo del paquete recoge SDK, dependencias y recursos.
 
 <details>
 <summary>Original documentation and credits · Documentación y créditos originales</summary>
